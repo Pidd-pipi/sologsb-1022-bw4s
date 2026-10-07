@@ -1,5 +1,5 @@
-import { TextAnnotationWorkbench } from '@/components/text-annotation-workbench';
+import { SeriesWorkbench } from '@/components/series-workbench';
 
 export default function HomePage() {
-  return <TextAnnotationWorkbench />;
+  return <SeriesWorkbench />;
 }
